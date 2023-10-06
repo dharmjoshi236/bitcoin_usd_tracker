@@ -4,7 +4,7 @@
   "description": "This is the test project for a 1st round in a software compnay",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Dharm Joshi",
   "license": "ISC",
